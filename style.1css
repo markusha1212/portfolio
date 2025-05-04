@@ -1,0 +1,14 @@
+body {
+    font-family: sans-serif;
+    background-image: linear-gradient(lightblue, red)
+}
+
+h1 {
+    position: relative;
+    left: 390px;
+}
+
+li {
+   position: relative;
+    left: 390px;  
+}
